@@ -4,7 +4,7 @@
 
 Github Reporsitory for Arxiv paper titled "Subword ELMo"
 
-Pre-trained model can be downloaded from: 
+Pre-trained model can be downloaded from: https://pan.baidu.com/s/1cVVwNvvAuV_gy7uekMLBBA
 
 If you want to use the pretrained model to enhance the representation of your text, you can use the function ```raw2embedding``` in file ```api.py```.
 
